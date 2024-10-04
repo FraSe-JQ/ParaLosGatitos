@@ -23,7 +23,7 @@ public:
 	void manejarColisiones();
 	bool dinamica1espacio(); // (ya me canse xd) la logica deberia ser parecido a las colisiones de abajo, pero aumentale +1 al largo y ancho.
 	//tambien agregarle como un indicador(puedes utilizar cualquier cosa que indique verdadero o falso) y en el kbhit del movimiento del caballero
-	//pones un if en la tela 'P' con el indicador y ya deberia quedar no? (suerte pa :D) 
+	//pudes poner un if en la tela 'P' con el indicador y ya deberia quedar no? (suerte pa :D) 
 	bool colisionEnPro();
 	bool colisionCasEn();
 
